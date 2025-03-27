@@ -14,7 +14,7 @@ Sou um jovem Cristão apaixonado por tecnologia, sempre em busca de novos conhec
 ## Ferramentas & Tecnologias
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Django-E34F26?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </div>
 
 ## Estatísticas do GitHub
