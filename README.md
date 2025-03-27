@@ -1,6 +1,6 @@
 # Olá, eu sou a @GiihVieira! 👋
 
-![Banner](https://via.placeholder.com/1200x300?text=Bem-vindo+ao+meu+GitHub)
+![Banner](https://placehold.co/1200x300?text=Bem-vindo+ao+meu+GitHub)
 
 ## Sobre Mim
 Sou um jovem Cristão apaixonado por tecnologia, sempre em busca de novos conhecimentos e desafios.  
