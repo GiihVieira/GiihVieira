@@ -17,12 +17,6 @@ Sou um jovem cristão apaixonado por tecnologia, sempre em busca de novos conhec
   <img src="https://img.shields.io/badge/Django%20REST%20Framework-FF1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
 </div>
 
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiihVieira&show_icons=true&theme=dracula&hide_title=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiihVieira&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
-
 <!--
 ## 🤝 Colabore Comigo
 Se você curte os mesmos temas ou quer trabalhar em algo juntos, me chama! Estou sempre aberto a novos projetos e trocas de conhecimento. 🚀
