@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a @GiihVieira!
+# 👋 Olá, eu sou o @GiihVieira!
 
 ## 🙋 Sobre Mim
 Sou um jovem cristão apaixonado por tecnologia, sempre em busca de novos conhecimentos e desafios.
