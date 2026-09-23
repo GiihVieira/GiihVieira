@@ -1,4 +1,4 @@
-# Hi, I'm Giovane Rodrigues
+# Hi, I'm Giovane Vieira
 
 Backend Developer focused on Python, Django REST Framework, REST APIs, system integrations and process automation.
 
