@@ -50,11 +50,27 @@ I am continuously improving my skills in backend architecture, API design, perfo
 
 ## 🏆 Certifications & Badges
 
-### Cisco Networking Academy
-
-- Python Essentials 2
-
-[![Python Essentials 2](./badges/python-essentials-2.png)](LINKsfully completed the Python Essentials 2 course from Cisco Networking Academy, expanding my knowledge of advanced Python programming concepts and best development practices.
+<table>
+  <tr>
+    <td width="140" align="center" valign="middle">
+      <a href="LINK_DA_BADGE" target="_blank">
+        <img
+          src="./badges/python-essentials-2.png"
+          width="110"
+          alt="Python Essentials 2 Badge"
+        />
+      </a>
+    </td>
+    <td valign="top">
+      <h3>Python Essentials 2</h3>
+      <b>Cisco Networking Academy</b>
+      <br><br>
+      Completed the Python Essentials 2 course, strengthening my knowledge of object-oriented programming, modules, packages, exception handling, file processing and Python development best practices.
+      <br><br>
+      🔗 <a href="https://www.credly.com/badges/6f3d935f-e97a-463a-9c91-0a947c6fb929/linked_in?t=tmftjh" target="_blank"><b>View Credential</b></a>
+    </td>
+  </tr>
+</table>
 
 ## Contact
 
