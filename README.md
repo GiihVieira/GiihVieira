@@ -48,6 +48,14 @@ My main goal is to create reliable, maintainable and scalable solutions that red
 
 I am continuously improving my skills in backend architecture, API design, performance optimization, event-driven systems, automation and scalable internal tools.
 
+## 🏆 Certifications & Badges
+
+### Cisco Networking Academy
+
+- Python Essentials 2
+
+[![Python Essentials 2](./badges/python-essentials-2.png)](LINKsfully completed the Python Essentials 2 course from Cisco Networking Academy, expanding my knowledge of advanced Python programming concepts and best development practices.
+
 ## Contact
 
 - Email: [giihvieiratwo@outlook.com](mailto:giihvieiratwo@outlook.com)
